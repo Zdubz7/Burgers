@@ -2,9 +2,9 @@
   "name": "Burgers",
   "version": "1.0.0",
   "description": "- Install the below packages inside your github Burger repository folder in your terminal.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js" 
   },
   "repository": {
     "type": "git",
