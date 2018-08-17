@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/Zdubz7/Burgers/issues"
   },
-  "homepage": "https://github.com/Zdubz7/Burgers#readme"
+  "homepage": "https://github.com/Zdubz7/Burgers#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "heroku-cli": "^7.0.9",
+    "mysql": "^2.16.0",
+    "path": "^0.12.7"
+  }
 }
