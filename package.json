@@ -4,7 +4,7 @@
   "description": "- Install the below packages inside your github Burger repository folder in your terminal.",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js" 
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
